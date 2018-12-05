@@ -1,6 +1,10 @@
 # 7cart
 
-This repository is an open source e-commerce platform. It may be used as an online store, online store platform, or service oriented platform.
+This repository is an open source e-commerce platform. It may be used as an online store, an online store platform, or a service oriented platform.
+
+7cart built in a Docker container, thus it can be quickly deployed and run on a virtually any system.
+
+7cart DB schema does not implement the traditional EAV DB pattern, but a much more simpler and efficient [JSONB](https://coussej.github.io/2016/01/14/Replacing-EAV-with-JSONB-in-PostgreSQL/)
 
 ## Contributing
 
